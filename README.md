@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh9852)](https://github.com/kjh9852/github-readme-stats)
 
 <!--
 **kjh9852/kjh9852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
