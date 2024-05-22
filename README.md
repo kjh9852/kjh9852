@@ -1,4 +1,4 @@
-<div align="center">
+<div align=center>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh9852)](https://github.com/kjh9852/github-readme-stats)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh9852&layout=compact)
